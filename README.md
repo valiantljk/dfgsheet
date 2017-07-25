@@ -10,13 +10,14 @@ df=gs.df("A1:T30") # convert the google sheet into a dataframe
   Configure Google Drive API and Service Accounts:
   ```
   https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+  obtain a json file that stores your username, passwords, etc
   ```
   
 # Install DFGsheet
 ```
   pip install dfgsheet
 ```
-# Use PySheet
+# Use DFGsheet
 
 ```
 from dfgsheet.google import *
