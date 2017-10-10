@@ -11,6 +11,8 @@ df=gs.df("A1:T30") # convert the google sheet into a dataframe
   ```
   https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
   obtain a json file that stores your username, passwords, etc
+  
+  Next time, you just need to share your googlesheet with the client email found in this json file.
   ```
   
 # Install DFGsheet
